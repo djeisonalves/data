@@ -1,0 +1,161 @@
+{
+  "categories":[
+     {
+        "id":1,
+        "name":"Azamerica",
+        "slug":"azamerica"
+     },
+     {
+        "id":3,
+        "name":"Alphasat",
+        "slug":"alphasat"
+     },
+     {
+        "id":4,
+        "name":"AzBox",
+        "slug":"azbox"
+     },
+     {
+        "id":5,
+        "name":"Cinebox",
+        "slug":"cinebox"
+     },
+     {
+        "id":6,
+        "name":"Gosat",
+        "slug":"gosat"
+     },
+     {
+        "id":7,
+        "name":"Athomics",
+        "slug":"athomics"
+     },
+     {
+        "id":8,
+        "name":"Duosat",
+        "slug":"duosat"
+     },
+     {
+        "id":9,
+        "name":"Audisat",
+        "slug":"audisat"
+     },
+     {
+        "id":10,
+        "name":"Tuning",
+        "slug":"tuning"
+     }
+  ],
+  "models":[
+     {
+        "id":1,
+        "name":"Az Silver",
+        "category_id":1,
+        "slug":"az-silver"
+     },
+     {
+        "id":2,
+        "name":"Az Champions",
+        "category_id":1,
+        "slug":"az-champions"
+     },
+     {
+        "id":3,
+        "name":"Alphasat GO",
+        "category_id":2,
+        "slug":"alphasat-go"
+     },
+     {
+        "id":4,
+        "name":"Tx Kvm Edition",
+        "category_id":2,
+        "slug":"tx-kvm-edition"
+     },
+     {
+      "id":5,
+      "name":"Tuning P918",
+      "category_id":10,
+      "slug":"tuning-p918"
+      },
+      {
+      "id":6,
+      "name":"Tuning P920",
+      "category_id":10,
+      "slug":"tuning-p920"
+      },
+      {
+      "id":7,
+      "name":"Duosat Blade Go!",
+      "category_id":8,
+      "slug":"duosat-blade-go"
+      },
+      {
+      "id":8,
+      "name":"Alphasat WOW!",
+      "category_id":3,
+      "slug":"alphasat-wow"
+      }
+  ],
+  "posts":[
+     {
+        "id":1,
+        "title":"Nova Atualização Alphasat Tx Plus V.16.05.07.S85 - 10/05/2024",
+        "description":"<p>Baixe a última atualização para seu receptor Alphasat Tx Plus. Aqui você encontra todas as atualizações disponibilizadas pelos fabricantes das marcas.<br/><br/> Saiba como atualizar seu receptor corretamente. <br/><br/>- Baixe a ultima atualização do seu modelo e descompacte-a em um pendrive;<br/>- Com seu aparelho desligado, remova os cabos de Antenas, adaptador Wifi e/ou Cabo RJ45;<br/>- Ligue-o e faça Reset de Fabrica;<br/>- Faça a atualização por USB;<br/>- Faça Reset de Fabrica novamente;<br/>- Desligue seu aparelho;<br/>- Insira os cabos de antena, Wifi ou Cabo RJ45;<br/>- Religue seu aparelho e reconfigure seu aparelho<br/><br/>IMPORTANTE: Faça o Reset de Fabrica antes e depois da atualização.<br/><br/></p>",
+        "slug":"nova-atualizacao-alphasat-tx-plus-v-1-05-85",
+        "link_1":"https://bit.ly/3UxqqdP",
+        "link_2":"http://link2.com",
+        "image_url": "/images/img1.png",
+        "autor": "admin",
+        "model_id":4,
+        "category_id":3
+     },
+     {
+        "id":2,
+        "title":"Nova Atualizacao Alphasat WOW! V.16.05.07-S85 - 10/05/2024",
+        "description":"<p>Baixe a última atualização para seu receptor Alphasat Tx KVM Edition . Aqui você encontra todas as atualizações disponibilizadas pelos fabricantes das marcas.<br/><br/> Saiba como atualizar seu receptor corretamente. <br/><br/>- Baixe a ultima atualização do seu modelo e descompacte-a em um pendrive;<br/>- Com seu aparelho desligado, remova os cabos de Antenas, adaptador Wifi e/ou Cabo RJ45;<br/>- Ligue-o e faça Reset de Fabrica;<br/>- Faça a atualização por USB;<br/>- Faça Reset de Fabrica novamente;<br/>- Desligue seu aparelho;<br/>- Insira os cabos de antena, Wifi ou Cabo RJ45;<br/>- Religue seu aparelho e reconfigure seu aparelho<br/><br/>IMPORTANTE: Faça o Reset de Fabrica antes e depois da atualização.<br/><br/></p>",
+        "slug":"nova-atualizacao-alphasat-wow-v160507-s85-10052024",
+        "link_1":"https://bit.ly/4bco3UN",
+        "link_2":"http://link4.com",
+        "image_url": "/images/img1.png",
+        "autor": "admin",
+        "model_id":8,
+        "category_id":3
+     },
+     {
+        "id":6,
+        "title":"Nova Atualização Tuning P918 V.2.14 - 29/05/2024",
+        "description":"<p>Esta atualização realizada<br /></p><br /> - Melhorias no SKS.<br /><br /><p>Baixe a última atualização para seu receptor Tuning P918 V.2.14. Aqui você encontra todas as atualizações disponibilizadas pelos fabricantes das marcas.<br /><br />Saiba como atualizar seu receptor corretamente. <br /><br /> - Baixe a ultima atualização do seu modelo e descompacte-a em um pendrive;<br /> - Com seu aparelho desligado, remova os cabos de Antenas, adaptador Wifi e/ou Cabo RJ45;<br /> - Ligue-o e faça Reset de Fabrica;<br /> - Faça a atualização por USB;<br /> - Não cancele o processo de atualização até completar 100%.<br /> - Faça Reset de Fabrica novamente;<br /> - Desligue seu aparelho;<br /> - Insira os cabos de antena, Wifi ou Cabo RJ45;<br /> - Religue seu aparelho e reconfigure seu aparelho<br /><br />IMPORTANTE: Após a atualização, faça um reset de fábrica e desligue o receptor da energia para que todos os benefícios da nova atualização tenham efeito.<br /><br /></p>",
+        "slug":"nova-atualizacao-tuning-p918-v214-29052024",
+        "link_1":"https://www.mediafire.com/file/qh0ulwfy7mphfai/Tuning_P918_V.214.bin",
+        "link_2":"http://link4.com",
+        "image_url": "/images/img1.png",
+        "autor": "admin",
+        "model_id":5,
+        "category_id":10
+     },
+     {
+        "id":7,
+        "title":"Nova Atualização Tuning P920 V.2.14 - 29/05/2024",
+        "description":"<p>Esta atualização realizada<br /></p><br /> - Melhorias no SKS.<br /><br /><p>Baixe a última atualização para seu receptor Tuning P920 V.2.14. Aqui você encontra todas as atualizações disponibilizadas pelos fabricantes das marcas.<br /><br />Saiba como atualizar seu receptor corretamente. <br /><br /> - Baixe a ultima atualização do seu modelo e descompacte-a em um pendrive;<br /> - Com seu aparelho desligado, remova os cabos de Antenas, adaptador Wifi e/ou Cabo RJ45;<br /> - Ligue-o e faça Reset de Fabrica;<br /> - Faça a atualização por USB;<br /> - Não cancele o processo de atualização até completar 100%.<br /> - Faça Reset de Fabrica novamente;<br /> - Desligue seu aparelho;<br /> - Insira os cabos de antena, Wifi ou Cabo RJ45;<br /> - Religue seu aparelho e reconfigure seu aparelho<br /><br />IMPORTANTE: Após a atualização, faça um reset de fábrica e desligue o receptor da energia para que todos os benefícios da nova atualização tenham efeito.<br /><br /></p>",
+        "slug":"nova-atualizacao-tuning-p920-v214-29052024",
+        "link_1":"https://www.mediafire.com/file/sr0lfj15amj69vc/Tuning_P920_V.214.bin",
+        "link_2":"http://link4.com",
+        "image_url": "/images/img1.png",
+        "autor": "admin",
+        "model_id":6,
+        "category_id":10
+     },
+     {
+        "id":8,
+        "title":"Primeira Atualizacao Duosat Blade Go! V.1.0.2 - 28/05/2024",
+        "description":"<p>Baixe a primeira atualização para seu receptor Duosat Blade Go! . Aqui você encontra todas as atualizações disponibilizadas pelos fabricantes das marcas.<br/><br/> Saiba como atualizar seu receptor corretamente. <br/><br/>- Baixe a ultima atualização do seu modelo e descompacte-a em um pendrive;<br/>- Com seu aparelho desligado, remova os cabos de Antenas, adaptador Wifi e/ou Cabo RJ45;<br/>- Ligue-o e faça Reset de Fabrica;<br/>- Faça a atualização por USB;<br/>- Faça Reset de Fabrica novamente;<br/>- Desligue seu aparelho;<br/>- Insira os cabos de antena, Wifi ou Cabo RJ45;<br/>- Religue seu aparelho e reconfigure seu aparelho<br/><br/>IMPORTANTE: Faça o Reset de Fabrica antes e depois da atualização.<br/><br/>.</p>",
+        "slug":"primeira-atualizacao-duosat-blade-go-v102-28052024",
+        "link_1":"https://www.mediafire.com/file/qqag2m0wxr3ryw5/Blade_Go_v1_0_2.zip/file",
+        "link_2":"http://link4.com",
+        "image_url": "/images/img1.png",
+        "autor": "admin",
+        "model_id":7,
+        "category_id":8
+     }
+  ]
+}
