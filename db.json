@@ -62,13 +62,13 @@
      {
         "id":3,
         "name":"Alphasat GO",
-        "category_id":2,
+        "category_id":3,
         "slug":"alphasat-go"
      },
      {
         "id":4,
         "name":"Tx Kvm Edition",
-        "category_id":2,
+        "category_id":3,
         "slug":"tx-kvm-edition"
      },
      {
