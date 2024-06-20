@@ -157,5 +157,28 @@
         "model_id":7,
         "category_id":8
      }
+  ],
+  "bannerAnuncio": [
+    {
+      "id": 1,
+      "title": "Anuncio 1",
+      "anunciante_id": 1,
+      "banner_url": "http://example.com/banner1.jpg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "Anuncio 2",
+      "anunciante_id": 2,
+      "banner_url": "http://example.com/banner2.jpg",
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Anuncio 3",
+      "anunciante_id": 3,
+      "banner_url": "http://example.com/banner3.jpg",
+      "active": false
+    }
   ]
 }
