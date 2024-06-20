@@ -178,7 +178,7 @@
       "title": "Anuncio 3",
       "anunciante_id": 3,
       "banner_url": "/images/banners/3.png",
-      "active": false
+      "active": true
     }
   ]
 }
