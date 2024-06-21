@@ -171,14 +171,14 @@
       "title": "Anuncio 2",
       "anunciante_id": 2,
       "banner_url": "/images/banners/2.png",
-      "active": true
+      "active": false
     },
     {
       "id": 3,
       "title": "Anuncio 3",
       "anunciante_id": 3,
       "banner_url": "/images/banners/3.png",
-      "active": true
+      "active": false
     }
   ]
 }
