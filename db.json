@@ -1,5 +1,27 @@
-{
-  "categories":[
+{  
+   "categories":[
+   {
+      "category_id":1,
+      "type":"Atualização"
+   },
+   {
+      "category_id":2,
+      "name":"Recovery"
+   },
+   {
+      "category_id":3,
+      "name":"Tutorial"
+   },
+   {
+      "category_id":4,
+      "name":"Noticias"
+   },
+   {
+      "category_id":5,
+      "name":"Dicas"
+   }
+],
+  "brand":[
      {
         "id":1,
         "name":"Azamerica",
@@ -50,49 +72,49 @@
      {
         "id":1,
         "name":"Az Silver",
-        "category_id":1,
+        "brand_id":1,
         "slug":"az-silver"
      },
      {
         "id":2,
         "name":"Az Champions",
-        "category_id":1,
+        "brand_id":1,
         "slug":"az-champions"
      },
      {
         "id":3,
         "name":"Alphasat GO",
-        "category_id":3,
+        "brand_id":3,
         "slug":"alphasat-go"
      },
      {
         "id":4,
         "name":"Tx Kvm Edition",
-        "category_id":3,
+        "brand_id":3,
         "slug":"tx-kvm-edition"
      },
      {
       "id":5,
       "name":"Tuning P918",
-      "category_id":10,
+      "brand_id":10,
       "slug":"tuning-p918"
       },
       {
       "id":6,
       "name":"Tuning P920",
-      "category_id":10,
+      "brand_id":10,
       "slug":"tuning-p920"
       },
       {
       "id":7,
       "name":"Duosat Blade Go!",
-      "category_id":8,
+      "brand_id":8,
       "slug":"duosat-blade-go"
       },
       {
       "id":8,
       "name":"Alphasat WOW!",
-      "category_id":3,
+      "brand_id":3,
       "slug":"alphasat-wow"
       }
   ],
@@ -107,7 +129,8 @@
         "image_url": "/images/img1.png",
         "autor": "admin",
         "model_id":4,
-        "category_id":3
+        "brand_id":3,
+        "category_id":1
      },
      {
         "id":2,
@@ -119,7 +142,8 @@
         "image_url": "/images/4.png",
         "autor": "admin",
         "model_id":8,
-        "category_id":3
+        "brand_id":3,
+        "category_id":1
      },
      {
         "id":6,
@@ -131,7 +155,8 @@
         "image_url": "/images/2.png",
         "autor": "admin",
         "model_id":5,
-        "category_id":10
+        "brand_id":10,
+        "category_id":1
      },
      {
         "id":7,
@@ -143,7 +168,8 @@
         "image_url": "/images/3.jpg",
         "autor": "admin",
         "model_id":6,
-        "category_id":10
+        "brand_id":10,
+        "category_id":1
      },
      {
         "id":8,
@@ -155,7 +181,8 @@
         "image_url": "/images/1.jpg",
         "autor": "admin",
         "model_id":7,
-        "category_id":8
+        "brand_id":8,
+        "category_id":1
      }
   ],
   "bannerAnuncio": [
