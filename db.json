@@ -116,6 +116,18 @@
       "name":"Alphasat WOW!",
       "brand_id":3,
       "slug":"alphasat-wow"
+      },
+      {
+      "id":9,
+      "name":"Duosat Vortex",
+      "brand_id":8,
+      "slug":"duosat-vortex"
+      },
+      {
+      "id":10,
+      "name":"Troy Legend",
+      "brand_id":8,
+      "slug":"troy-legend"
       }
   ],
   "posts":[
@@ -181,6 +193,32 @@
         "image_url": "/images/1.jpg",
         "autor": "admin",
         "model_id":7,
+        "brand_id":8,
+        "category_id":1
+     },
+     {
+        "id":9,
+        "title":"Atualizacao Duosat Vortex V.1.1.7 - 08/07/2024",
+        "description":"<h1>Apresentamos o DuoSat Vortex</h1><p>A nova geração de receptores que redefine o padrão de desempenho e eficiência. Equipado com o processador MIPS mais avançado do mercado, o DuoSat Vortex proporciona uma experiência de visualização sem precedentes, posicionando-se como líder no mercado de receptores.</p><p>O DuoSat Vortex vai além de um simples receptor. Trata-se de um dispositivo de última geração, repleto de inovações inéditas no mercado. Com um design inovador e recursos de ponta, o DuoSat Vortex é a escolha ideal para quem busca o melhor entretenimento.</p><p>O Vortex traz evoluções inéditas e um design inovador, que certamente irá surpreender. Com o DuoSat Vortex, você terá acesso a mais de <strong>300 canais</strong>, incluindo séries, filmes, novelas, esportes e muito mais. Sua vasta programação oferece opções para todos os gostos, estilos e interesses.</p><p>Além disso, ele se destaca pela qualidade do sinal e da imagem, e conta com funcionalidades como lista de canais favoritos e guia de programação eletrônico. O <strong>VOD (Video on Demand)</strong> oferece os melhores filmes e séries gratuitamente.</p><h2>Como funciona?</h2><p>Primeiro: não há necessidade de pagar mensalidades. Adquirindo o aparelho, você pode assistir aos melhores canais, 24 horas por dia, sem preocupações.</p><p>Segundo: basta conectar o cabo e a antena Wi-Fi.</p><h3>Modo de Uso</h3><ul><li>CS</li><li>IKS</li><li>SKS</li><li>Internet</li></ul><h3>Especificações</h3><ul><li>Marca: DuoSat</li><li>Modelo: Vortex</li><li>Processador: Dual Core</li><li>Memória RAM: 256 MB</li><li>Fonte de Alimentação: Bivolt com saída 12V</li><li>Sistema Operacional: Proprietário</li><li>Resolução de Imagem: Full HD</li><li>Quantidade de Canais: Mais de 280</li><li>Conectividade: Wi-Fi 2.4GHz</li><li>Conexões: HDMI, Rede, Tuner 1, USB</li><li>Recursos Multimídia: EPG, IPTV, V.O.D</li><li>Tipo de Receptor: Satélite</li></ul>",
+        "slug":"primeira-atualizacao-duosat-blade-go-v102-28052024",
+        "link_1":"https://www.mediafire.com/file/sl3gmhg57ch0l8o/Vortex_v1_1_7.zip/file",
+        "link_2":"http://link4.com",
+        "image_url": "/images/duosat-vortex.jpg",
+        "autor": "admin",
+        "model_id":9,
+        "brand_id":8,
+        "category_id":1
+     },
+     {
+        "id":10,
+        "title":"Atualização Duosat Troy Legend V.1.0.5 - 09/07/2024",
+        "description":"<p>Os fones de ouvido evoluíram significativamente, oferecendo uma experiência de áudio imersiva e de alta qualidade. Modelos com cancelamento de ruído ativo permitem uma imersão total, bloqueando sons externos indesejados. Os fones sem fio (wireless) ganharam popularidade pela conveniência e liberdade de movimento que proporcionam. A duração da bateria é um fator crucial, com alguns modelos oferecendo até 40 horas de uso contínuo. A conectividade via Bluetooth é estável e de fácil pareamento com diversos dispositivos. O design ergonômico garante conforto mesmo após longos períodos de uso, com opções intra-auriculares e circum-auriculares. A qualidade de som é aprimorada por drivers avançados, que oferecem graves profundos e agudos cristalinos. Modelos resistentes à água e suor são ideais para atividades físicas e uso ao ar livre. Microfones embutidos de alta qualidade possibilitam chamadas claras e comando de voz preciso. O desenvolvimento de novas tecnologias, como áudio espacial, promete elevar ainda mais a experiência auditiva.<br/>.</p>",
+        "slug":"primeira-atualizacao-duosat-blade-go-v102-28052024",
+        "link_1":"https://www.mediafire.com/file/vpe7fm0eiu7ha20/TroyLegend_v1_0_5.zip/file",
+        "link_2":"http://link4.com",
+        "image_url": "/images/duosat-troy-legend.jpg",
+        "autor": "admin",
+        "model_id":10,
         "brand_id":8,
         "category_id":1
      }
